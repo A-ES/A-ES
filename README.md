@@ -1,23 +1,132 @@
-# Hi there! 👋 I'm MD Abrar
+<div align="center">
 
-I'm a Full-Stack Developer and AI Engineer building end-to-end web products — from AI systems using RAG and agent orchestration to interactive dashboards, 3D visualizations, and production-ready web apps. I work primarily with the MERN stack and Next.js, and I'm especially interested in applying this to fintech: intelligent, reliable products that solve real problems.
+# Mohammed Abrar
 
-- 🚀 Currently building: RAG pipelines, agent orchestration systems, and full-stack web apps
-- 🏆 Hackathon winner & finalist across multiple events
-- 💼 Freelance full-stack developer — portfolios & landing pages for independent clients
-- 🎯 Exploring: DSA, open-source contribution, blockchain, IoT
+### AI Engineer • Autonomous AI Agents • LLM Systems • RAG • DevOps Automation
 
-## 🌐 Socials
-[LinkedIn](#)
+Building intelligent systems that reason, retrieve context, and automate complex engineering workflows.
 
-## 💻 Tech Stack
-`react` `typescript` `next.js` `node.js` `express.js` `mongodb` `javascript` `html5` `c` `postgres` `vercel`
+<p>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_ID"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
+</p>
 
-## 🤖 AI & Systems
-RAG (Retrieval-Augmented Generation) · Agent Orchestration · LLM Integration
+</div>
 
-## 🎨 Design & 3D
-Blender — 3D modeling for product visuals and interfaces
+---
+
+## 👋 About Me
+
+I'm an AI Engineer passionate about building autonomous systems that extend the capabilities of Large Language Models beyond conversation.
+
+My work focuses on combining **LLMs, Retrieval-Augmented Generation (RAG), vector search, and workflow orchestration** to create AI systems that understand context, make decisions, and interact with real software infrastructure.
+
+I enjoy solving engineering problems where AI can automate repetitive workflows, accelerate developer productivity, and operate reliably in production environments.
+
+---
+
+## 🚀 Featured Projects
+
+### Autonomous CI/CD Remediation Agent
+
+A production-oriented multi-agent system that automatically diagnoses GitHub Actions failures, retrieves similar historical incidents using vector search, generates fixes, and opens pull requests with minimal human intervention.
+
+**Highlights**
+
+- LangGraph-based autonomous workflow
+- Repository Structure Index (RSI) for repository understanding
+- Episodic memory using PostgreSQL + pgvector
+- Few-shot RAG for failure diagnosis
+- Dockerized deployment with GitHub webhook integration
+
+**Impact**
+
+- 🚀 Reduced debugging time by **65%**
+- 🤖 Automatically resolved **60–75%** of common CI/CD failures
+
+---
+
+### NLP-Driven Feedback-to-Code Automation Pipeline
+
+Built an end-to-end system that transforms raw user feedback into actionable engineering tasks using NLP clustering and semantic similarity.
+
+**Highlights**
+
+- Chrome Extension + CLI Agent + Dashboard
+- Semantic clustering using cosine similarity
+- Automatic code module mapping
+- Intelligent feedback deduplication
+
+**Impact**
+
+- ⚡ Reduced manual code-update effort by **40%**
+- 🚀 Reduced feedback-to-deployment cycle from **hours to under 10 minutes**
+
+---
+
+## 🛠 Tech Stack
+
+### AI & Machine Learning
+
+`Python` • `OpenAI API` • `LangChain` • `LangGraph` • `RAG` • `Prompt Engineering` • `Vector Search` • `pgvector` • `Scikit-learn` • `NLP`
+
+### Backend
+
+`FastAPI` • `Node.js` • `Express.js` • `REST APIs` • `WebSockets` • `SSE`
+
+### Frontend
+
+`React` • `JavaScript` • `TypeScript` • `HTML` • `CSS`
+
+### Databases
+
+`PostgreSQL` • `MongoDB` • `MySQL`
+
+### DevOps & Cloud
+
+`Docker` • `GitHub Actions` • `Git` • `AWS` • `Azure` • `GCP`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner — Code and Solve Challenge
+- 🥇 Winner — Hack to Future
+- 🏅 Top 6 — Agentathon (PES University)
+- 💻 Solved **300+ LeetCode** problems
+- 📈 LeetCode Max Rating: **1564**
+
+---
 
 ## 📊 GitHub Stats
-<!-- your stats widget goes here -->
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect
+
+I'm always interested in collaborating on projects involving:
+
+- Autonomous AI Agents
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Infrastructure
+- Developer Tools
+- Open Source AI
+
+If you're building in this space, feel free to reach out!
+
+<p align="center">
+
+### **Building autonomous software that transforms AI from an assistant into an engineering teammate.**
+
+</p>
