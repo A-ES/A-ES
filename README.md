@@ -7,10 +7,10 @@
 Building intelligent systems that reason, retrieve context, and automate complex engineering workflows.
 
 <p>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_ID"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
+<a href="https://www.linkedin.com/in/mohammed-abrar-ba0222304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://ai-engineer-portfolio-chi-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/></a>
+<a href="mailto:mohammedabrar934@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Hades3002/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
 </p>
 
 </div>
