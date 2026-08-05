@@ -1,6 +1,5 @@
 <div align="center">
 
-#Abrar
 
 ### AI Engineer • Autonomous AI Agents • LLM Systems • RAG • DevOps Automation
 
