@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Abrar
+#Abrar
 
 ### AI Engineer • Autonomous AI Agents • LLM Systems • RAG • DevOps Automation
 
