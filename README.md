@@ -94,8 +94,8 @@ Built an end-to-end system that transforms raw user feedback into actionable eng
 - 🥇 Winner — Code and Solve Challenge
 - 🥇 Winner — Hack to Future
 - 🏅 Top 6 — Agentathon (PES University)
-- 💻 Solved **300+ LeetCode** problems
-- 📈 LeetCode Max Rating: **1564**
+- 💻 Solved **400+ LeetCode** problems
+- 📈 LeetCode Max Rating: **1663**
 
 ---
 
